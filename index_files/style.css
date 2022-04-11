@@ -1,0 +1,30 @@
+
+#quot img {
+
+ align-items:right;
+
+}
+#form {
+	float:right;
+
+}
+#nav {
+	background-color:grey;
+}
+#footer
+{
+text-align: center;
+background-color:grey;
+}
+
+#about {
+text-align:center;
+background-color:blue;
+}
+
+#touch {
+font-size:120px;
+position: left;
+
+
+}
